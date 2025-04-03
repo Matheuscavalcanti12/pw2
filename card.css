@@ -1,0 +1,28 @@
+
+
+.imagens-card{
+    width: 250px;
+
+
+}
+
+.nome-tenis{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 15px;
+   font-size: 15px;
+  
+}   
+.menu{
+    padding: 20px;
+}
+.valor{
+    font-weight: bold;
+    
+}
+.card{
+    
+    background-color: #ffffff;
+    width: 252px;
+    margin: 5px 10px;
+}
+

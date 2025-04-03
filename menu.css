@@ -1,0 +1,19 @@
+.menu-1{
+    display: flex ;
+    list-style: none;
+    margin-left: 10px;
+
+}
+.item-menu{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+     color: black;
+}
+
+.link-item-menu{
+    color: black;
+}
+
+.imagem{
+    margin-right: 300px;
+}
