@@ -1,0 +1,43 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+
+.container{
+    width: 80%;
+    background-color: gold;
+    margin: 0 auto;
+    height: 100%;
+}
+header{
+    height: 175px;
+    background-color: #ff0000;
+    width: 100%;
+}
+nav{
+    height: 75px;
+    background-color: purple;
+    width: 100%;
+}
+.descrição{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}
+.produto{
+    height: 500px;
+    width: 100%;
+}
+.img-produto{
+    width: 50%;
+    height: 100%;
+}
+.comprar-produto{
+    width: 50%;
+    height: 100%;
+    background-color: chocolate;
+}
