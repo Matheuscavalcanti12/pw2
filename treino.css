@@ -1,0 +1,23 @@
+header{
+    padding-top: 20px;
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    font-family: arial;
+}
+nav{
+    display: flex;
+    align-items: center;
+   
+}
+.a{
+    
+    margin-left: 20px;
+    color:black
+}
+
+.container{
+   display: grid;
+}
